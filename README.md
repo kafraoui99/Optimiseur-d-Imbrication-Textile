@@ -1,4 +1,9 @@
 # 🧵 Textile Nesting Optimizer
+![C++](https://img.shields.io/badge/C%2B%2B-17-blue)
+![CMake](https://img.shields.io/badge/CMake-3.10-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 
 Optimiseur d'imbrication de formes rectangulaires pour l'industrie textile - Développé pour LOSANJE
 
