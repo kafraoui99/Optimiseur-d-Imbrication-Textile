@@ -1,7 +1,8 @@
-# 🧵 Textile Nesting Optimizer
-![C++](https://img.shields.io/badge/C%2B%2B-17-blue)
-![CMake](https://img.shields.io/badge/CMake-3.10-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+# 🧵 Optimiseur d'Imbrication Textile
+![C++](https://img.shields.io/badge/C%2B%2B-17-blue?style=flat-square&logo=cplusplus)
+![CMake](https://img.shields.io/badge/CMake-3.10+-green?style=flat-square&logo=cmake)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
+![Industry](https://img.shields.io/badge/Industry-Textile%20Upcycling-blueviolet?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
 
@@ -37,8 +38,9 @@ Développé dans le cadre de ma candidature chez **LOSANJE**, startup pionnière
 ## 📦 Installation
 ```bash
 # Cloner le repository
-git clone https://github.com/yassine-kafraoui/textile-nesting-optimizer.git
-cd textile-nesting-optimizer
+# Cloner le repository
+git clone https://github.com/yassine-kafraoui/Optimiseur-d-Imbrication-Textile.git
+cd Optimiseur-d-Imbrication-Textile
 
 # Créer dossier build
 mkdir build && cd build
@@ -48,7 +50,7 @@ cmake ..
 make
 
 # Exécuter
-./TextileNestingOptimizer ../examples/input_simple.txt
+./OptimiseurImbrication ../examples/input_simple.txt
 ```
 
 ## 📊 Exemple d'utilisation
