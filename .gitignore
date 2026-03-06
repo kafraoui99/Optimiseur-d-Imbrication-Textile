@@ -1,0 +1,21 @@
+# Build directories
+build/
+cmake-build-*/
+
+# Compiled files
+*.o
+*.exe
+TextileNestingOptimizer
+
+# Output files
+output_results.csv
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
