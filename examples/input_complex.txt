@@ -1,0 +1,12 @@
+# Dimensions de la surface textile (largeur x hauteur en cm)
+200 150
+
+# Liste des pièces à placer (largeur hauteur quantité)
+# Simulation d'un lot de production upcycling textile
+40 30 10
+35 25 8
+30 30 6
+25 20 12
+20 15 15
+15 10 20
+10 10 25

@@ -1,0 +1,9 @@
+# Dimensions de la surface textile (largeur x hauteur en cm)
+100 80
+
+# Liste des pièces à placer (largeur hauteur quantité)
+# Format: width height quantity
+30 20 5
+15 10 8
+25 15 3
+20 20 2
