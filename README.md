@@ -134,9 +134,9 @@ ctest
 **Yassine KAFRAOUI**
 - Ingénieur en Génie Logiciel
 - Master Transformation Numérique - Paris Dauphine
-- 📧 yassine.kafraoui@email.com
+- 📧 yassinekafraoui@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/yassine-kafraoui)
-- 🐙 [GitHub](https://github.com/yassine-kafraoui)
+- 🐙 [GitHub](https://github.com/kafraoui99)
 
 ## 📄 Licence
 
